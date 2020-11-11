@@ -1,1 +1,1 @@
-# internte_of_things_sem3
+# internet_of_things_sem3

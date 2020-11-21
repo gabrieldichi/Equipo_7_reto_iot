@@ -1,1 +1,1 @@
-# internet_of_things_sem3
+# Equipo_7_reto_iot
